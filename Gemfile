@@ -1,0 +1,16 @@
+source 'https://rubygems.org' do
+  gem 'cucumber', '2.1.0'
+  gem 'rspec', '~>3.2.0'
+  gem 'page-object'
+  gem 'faker'
+  gem 'data_magic'
+  gem 'require_all'
+  gem 'watir-webdriver', '0.8.0'
+  gem 'money', '6.6.1'
+  gem 'thor'
+  gem 'pry'
+  gem 'mysql2'
+  gem 'rest-client'
+  gem 'headless'
+  gem 'luhnacy', '0.2.1'
+end
